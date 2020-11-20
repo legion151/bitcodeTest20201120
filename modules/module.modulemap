@@ -1,0 +1,7 @@
+framework module bitcodeTest20201120 {
+  umbrella header "bitcodeTest20201120.h"
+
+  export *
+  module * { export * }
+}
+
